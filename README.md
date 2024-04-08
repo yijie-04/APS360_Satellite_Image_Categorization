@@ -1,5 +1,6 @@
 # APS360_Satellite_Image_Categorization
+This project is completed for APS360 by Aiqi Zhang, Kara Ning, Emma Wang and Yijie Wang. 
 
-Satellite image segmentation is the process of characterizing the different types of landscape in an image. It allows the extraction of important information for applications such as monitoring environmental status and urban planning. In this project, team built and trained a neural network to facilitate this process, taking an input image and outputting the percentage of each landscape type. 
+The advancement of satellite imagery has opened new horizons in understanding and interpreting the Earth's surface, offering insights into the complex dynamics of landscapes across the globe. Automatic categorization and segmentation of land covers has become crucial across various fields, such as urban planning, agriculture, disaster management, and environmental monitoring. With the exponential growth of remote sensing data, there is also a growing need for efficient and accurate image segmentation techniques, which motivated this project.
 
-Code and other relevant documents will be uploaded as the team makes progress on this project.
+
